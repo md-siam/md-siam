@@ -10,13 +10,13 @@
 
 - 🌱  : I’m currently learning **Golang**
 
-- 👯  : I’m looking for job as **Flutter Developer**
+- 👯  : I’m looking for Full-time job as **Flutter Developer**
 
-- 👨‍💻  : All of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
+- 👨‍💻  : All of my projects are available at my **[GitHub](https://github.com/md-siam?tab=repositories)**
 
 - 📫  : How to reach me **md.siam03@gmail.com**
 
-- ⚡ : Fun fact **I love watching movies**
+- ⚡ : Fun fact **I love playing video games**
 
 ## 🚀 Languages and Tools:
 
@@ -31,7 +31,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://codeigniter.com/" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/42/000000/external-fire-emergency-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/> </a>
+    <a href="https://codeigniter.com/" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/38/000000/external-fire-emergency-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/54/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
@@ -62,7 +62,7 @@
     <a href="https://github.com/md-siam/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=md-siam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/md-siam/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-siam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
 
 
 <br/>

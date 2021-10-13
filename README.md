@@ -24,7 +24,7 @@
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-  
+
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -74,7 +74,5 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=md-siam"></a>
+<a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/md-siam?label=Followers&style=social" alt="GitHub Badge"></a>

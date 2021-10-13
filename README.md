@@ -38,6 +38,7 @@
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/digitalocean.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/> </a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a>    

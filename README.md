@@ -6,17 +6,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭  I’m currently working on **[Taja Khobor](https://tajakhobor.news/)**
+- 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)**
 
-- 🌱  I’m currently learning **Golang**
+- 🌱  : I’m currently learning **Golang**
 
-- 👯  I’m looking for job as **Flutter Developer**
+- 👯  : I’m looking for job as **Flutter Developer**
 
-- 👨‍💻  All of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
+- 👨‍💻  : All of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
 
-- 📫  How to reach me **md.siam03@gmail.com**
+- 📫  : How to reach me **md.siam03@gmail.com**
 
-- ⚡  Fun fact **I love watching movies**
+- ⚡ : Fun fact **I love watching movies**
 
 ## 🚀 Languages and Tools:
 

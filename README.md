@@ -77,6 +77,6 @@
 
 </p>
 
-## ❤ Views and Followers
+## 🧡 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=md-siam"></a>
 <a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/md-siam?label=Followers&style=social" alt="GitHub Badge"></a>

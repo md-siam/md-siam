@@ -10,7 +10,7 @@
 
 - 🌱  I’m currently learning **Web scraping using NodeJS**
 
-- 👯  I’m looking to collaborate on **OpenSource Projects**
+- 👯  I’m looking for job as **Flutter Developer**
 
 - 👨‍💻  All of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
 

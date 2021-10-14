@@ -36,7 +36,7 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="43" height="43"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a style="padding-right:200px;" href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="parseserver" width="43" height="43"/> </a>
+    <a href="https://parseplatform.org/" target="_blank"> <img style="padding-right:8px;" src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="parseserver" width="43" height="43"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="43" height="43"/> </a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="43" height="43"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="43" height="43"/> </a>

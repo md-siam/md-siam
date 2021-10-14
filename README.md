@@ -1,6 +1,6 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/RimwCec.png" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md. Siam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Md. Siam</h1>
 <h3 align="center">I'm a Full Stack Software Developer from Bangladesh.</h3>
 
 
@@ -10,7 +10,7 @@
 
 - 🌱  : I’m currently learning **Golang**
 
-- 👯  : I’m looking for Full-time job as **Flutter Developer**
+- 👯  : I’m looking for full-time job as **Flutter Developer**
 
 - 👨‍💻  : All of my projects are available at my **[GitHub](https://github.com/md-siam?tab=repositories)**
 
@@ -76,13 +76,13 @@
 ## 📝 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/md-siam-09703b184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://twitter.com/Md_Siam03"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.facebook.com/md.siam.nsu/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.instagram.com/md_siam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.linkedin.com/in/md-siam-09703b184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://twitter.com/Md_Siam03"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.facebook.com/md.siam.nsu/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.instagram.com/md_siam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href = "https://www.youtube.com/channel/UCsfT9pSCy7TWXRX495y3RMQ/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ## 🧡 Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=md-siam"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=md-siam">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/md-siam?label=Followers&style=social" alt="GitHub Badge"></a>

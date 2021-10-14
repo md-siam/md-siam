@@ -12,7 +12,7 @@
 
 - 👯  : I’m looking for full-time job as **Flutter Developer**
 
-- 👨‍💻  : All of my projects are available at my **[GitHub](https://github.com/md-siam?tab=repositories)**
+- 👨‍💻  : All of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
 
 - 📫  : How to reach me **md.siam03@gmail.com**
 

@@ -36,7 +36,7 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="43" height="43"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="parseserver" style="padding-right: 20px;" width="43" height="43"/> </a>
+    <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="parseserver" width="43" height="43"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="43" height="43"/> </a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="43" height="43"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="43" height="43"/> </a>
@@ -76,11 +76,11 @@
 ## 📝 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/md-siam-09703b184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Md_Siam03"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/md.siam.nsu/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/md_siam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCsfT9pSCy7TWXRX495y3RMQ/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/md-siam-09703b184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><p>&nbsp;&nbsp;</p>
+<a href = "https://twitter.com/Md_Siam03"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><p>&nbsp;&nbsp;</p>
+<a href = "https://www.facebook.com/md.siam.nsu/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a><p>&nbsp;&nbsp;</p>
+<a href = "https://www.instagram.com/md_siam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><p>&nbsp;&nbsp;</p>
+<a href = "https://www.youtube.com/channel/UCsfT9pSCy7TWXRX495y3RMQ/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a><p>&nbsp;&nbsp;</p>
 
 </p>
 

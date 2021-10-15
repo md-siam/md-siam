@@ -16,7 +16,7 @@
 
 - 📫  : How to reach me **[md.siam03@gmail.com]()**
 
-- ⚡ : Fun fact **[I love playing video games(CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
+- ⚡ : Fun fact **[I love playing video games (CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
 
 ## 🚀 Languages and Tools:
 

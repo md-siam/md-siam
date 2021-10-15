@@ -8,7 +8,7 @@
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)**
 
-- 🌱  : I’m currently learning **[Golang](https://www.udemy.com/course/learn-how-to-code/)**
+- 🌱  : I’m currently learning **[Golang](https://www.udemy.com/course/go-programming-language-crash-course/)**
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 

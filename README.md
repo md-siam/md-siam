@@ -14,9 +14,9 @@
 
 - 👨‍💻  : All of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
 
-- 📫  : How to reach me **[md.siam03@gmail.com]()**
+- 📫  : How to reach me **[md.siam03@gmail.com](md.siam03@gmail.com)**
 
-- ⚡ : Fun fact **[I love playing video games(CS:GO)]()**
+- ⚡ : Fun fact **[I love playing video games(CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
 
 ## 🚀 Languages and Tools:
 

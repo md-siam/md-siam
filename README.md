@@ -36,7 +36,7 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="43" height="43"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="43" height="43"/> </a>
-    <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" alt="cpanel" width="51" height="51"/> </a>
+    <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" alt="cpanel" width="50" height="50"/> </a>
     <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="parseserver" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="43" height="43"/>&nbsp;&nbsp;</a> 
@@ -44,6 +44,7 @@
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.git-tower.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-tower/git-tower-icon.svg" alt="tower" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="43" height="43"/> </a>
+    <a href="https://www.namecheap.com/" target="_blank"> <img src="http://www.apsgi.org/namecheap/nc_assets/img/nc-icon/namecheap-icon-114x114.png" alt="namecheap" width="43" height="43"/> </a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/> </a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>

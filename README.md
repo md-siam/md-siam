@@ -16,7 +16,7 @@
 
 - 📫  : How to reach me **[md.siam03@gmail.com]()**
 
-- ⚡ : Fun fact **[I love playing video games]()**
+- ⚡ : Fun fact **[I love playing Destiny 2 💠]()**
 
 ## 🚀 Languages and Tools:
 

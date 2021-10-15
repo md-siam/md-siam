@@ -43,7 +43,7 @@
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.git-tower.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-tower/git-tower-icon.svg" alt="tower" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="43" height="43"/> </a>
-    <a href="https://www.sketch.com/" target="_blank"> <img src="https://miro.medium.com/max/1110/0*KeVgSoY-10HJxzaF" alt="cpanel" width="43" height="43"/> </a>
+    <a href="https://www.sketch.com/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" alt="cpanel" width="43" height="43"/> </a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/> </a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>

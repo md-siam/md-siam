@@ -14,9 +14,9 @@
 
 - 👨‍💻  : All of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
 
-- 📫  : How to reach me **md.siam03@gmail.com**
+- 📫  : How to reach me **[md.siam03@gmail.com]()**
 
-- ⚡ : Fun fact **I love playing video games**
+- ⚡ : Fun fact **[I love playing video games]()**
 
 ## 🚀 Languages and Tools:
 

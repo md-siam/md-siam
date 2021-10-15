@@ -21,22 +21,22 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://golang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
+    <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/> </a>
+    <a href="https://golang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="43" height="43"/>&nbsp;&nbsp;</a>
+    <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="43" height="43"/> </a>
+    <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" alt="cpanel" width="50" height="50"/> </a>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="43" height="43"/> </a>
     <a href="https://codeigniter.com/" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/40/000000/external-fire-emergency-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/> </a> 
     <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="43" height="43"/>&nbsp;</a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="43" height="43"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="43" height="43"/> </a>
-    <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" alt="cpanel" width="50" height="50"/> </a>
     <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="parseserver" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="43" height="43"/>&nbsp;&nbsp;</a> 

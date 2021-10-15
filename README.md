@@ -29,7 +29,7 @@
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/> </a> 
-    <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="43" height="43"/> </a>
+    <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://pngimg.com/uploads/php/php_PNG23.png" alt="php" width="43" height="43"/> </a>
     <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" alt="cpanel" width="50" height="50"/> </a>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="43" height="43"/> </a>
     <a href="https://codeigniter.com/" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/40/000000/external-fire-emergency-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/> </a> 

@@ -10,7 +10,7 @@
 
 - 🌱  : I’m currently learning **Golang**
 
-- 👯  : I’m looking for full-time job as **Flutter Developer**
+- 👯  : I want to contribute as **Flutter Developer**
 
 - 👨‍💻  : All of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
 

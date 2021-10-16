@@ -82,7 +82,7 @@
 <br/>
 <br/>
 
-## 📝 Connect with me:
+## 🔗 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/md-siam-09703b184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
@@ -92,6 +92,6 @@
 <a href = "https://www.youtube.com/channel/UCsfT9pSCy7TWXRX495y3RMQ/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
-## 🧡 Views and Followers
+## ❤️ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=md-siam">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/md-siam?label=Followers&style=social" alt="GitHub Badge"></a>

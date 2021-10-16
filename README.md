@@ -31,7 +31,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/> </a> 
     <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="43" height="43"/> </a>
     <a href="https://codeigniter.com/" target="_blank"> <img src="https://www.codeigniter.com/assets/images/codeigniter4logo.png" alt="codeigniter" width="43" height="43"/> </a> 
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="41" height="41"/>&nbsp;&nbsp;</a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="41" height="41"/>&nbsp;</a>
     <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" alt="cpanel" width="50" height="50"/> </a>
     <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="43" height="43"/>&nbsp;</a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="43" height="43"/> </a>

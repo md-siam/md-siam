@@ -40,7 +40,7 @@
     <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="parseserver" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="43" height="43"/>&nbsp;&nbsp;</a> 
-    <a href="https://iterm2.com/" target="_blank"> <img src="https://icons.iconarchive.com/icons/osullivanluke/orb-os-x/256/Terminal-icon.png" alt="terminal" width="43" height="43"/>&nbsp;&nbsp;</a> 
+    <a href="https://iterm2.com/" target="_blank"> <img src="http://www.icons101.com//icons/39/Magnolia_Sample_Set_Update_1_by_hexdef101/128/Terminal.png" alt="terminal" width="43" height="43"/>&nbsp;&nbsp;</a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.git-tower.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-tower/git-tower-icon.svg" alt="tower" width="43" height="43"/>&nbsp;&nbsp;</a>

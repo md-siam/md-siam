@@ -88,11 +88,11 @@
 ## 🔗 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/md-siam-09703b184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://twitter.com/Md_Siam03"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.facebook.com/md.siam.nsu/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.instagram.com/md_siam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.youtube.com/channel/UCsfT9pSCy7TWXRX495y3RMQ/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/md-siam-09703b184/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://twitter.com/Md_Siam03" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.facebook.com/md.siam.nsu/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.instagram.com/md_siam/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://mdsiam.xyz/" target="_blank"><img src="https://img.icons8.com/color/48/000000/globe.png"/></a>
 </p>
 
 ## ❤️ Views and Followers

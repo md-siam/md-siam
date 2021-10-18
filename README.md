@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)**
+- 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 
 - 🌱  : I’m currently learning **[Golang](https://www.udemy.com/course/go-programming-language-crash-course/), [GraphQL](https://www.udemy.com/course/graphql-bootcamp/)**
 

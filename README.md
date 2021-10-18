@@ -37,7 +37,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="mongodb" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="firebase" width="43" height="43"/> </a>
     <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" title="parseserver" width="43" height="43"/>&nbsp;</a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" width="43" height="43"/>&nbsp;&nbsp;</a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" width="43" height="43"/>&nbsp;</a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" title="digitalocean" width="43" height="43"/>&nbsp;&nbsp;</a> 
     <a href="https://iterm2.com/" target="_blank"> <img src="http://www.icons101.com//icons/39/Magnolia_Sample_Set_Update_1_by_hexdef101/128/Terminal.png" title="terminal" width="43" height="43"/>&nbsp;&nbsp;</a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="43" height="43"/>&nbsp;&nbsp;</a>

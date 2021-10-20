@@ -37,7 +37,7 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySql" width="43" height="43"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="43" height="43"/> </a>
-    <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" title="ParseServer" width="43" height="43"/>&nbsp;</a>
+    <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" title="ParseServer" width="43" height="43"/></a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="43" height="43"/>&nbsp;</a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" title="Digitalocean" width="43" height="43"/>&nbsp;&nbsp;</a> 
     <a href="https://iterm2.com/" target="_blank"> <img src="http://www.icons101.com//icons/39/Magnolia_Sample_Set_Update_1_by_hexdef101/128/Terminal.png" title="Terminal" width="43" height="43"/>&nbsp;&nbsp;</a> 

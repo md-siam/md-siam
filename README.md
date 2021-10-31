@@ -24,7 +24,6 @@
     <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" title="Golang"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/> </a> 
@@ -37,7 +36,6 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySql" width="43" height="43"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="43" height="43"/> </a>
-    <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" title="ParseServer" width="43" height="43"/>&nbsp;</a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="43" height="43"/>&nbsp;</a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" title="Digitalocean" width="43" height="43"/>&nbsp;&nbsp;</a> 
     <a href="https://www.apachefriends.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/220px-XAMPP_logo.svg.png" title="XAMPP" width="41" height="41"/>&nbsp;&nbsp;</a>

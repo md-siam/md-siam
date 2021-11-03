@@ -74,7 +74,7 @@
 ## 📊 My Github Stats
 
 <br/>
-<table>
+<table style="width:100%">
     <tr>
         <td><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=md-siam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
         <td><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-siam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></td>

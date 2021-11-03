@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://flutter.dev/assets/images/dash/Dashatars.png" height="240"> </img>
+<img align="right" src="https://i.imgur.com/TRe7LRl.png" height="240"> </img>
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 

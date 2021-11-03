@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="240"> </img>  -->
-<img align="right" src="https://lh3.googleusercontent.com/proxy/ZqTSEipQTTci-YCzASdJ9D-SiAkYC157l7W3VxVEJZOLJWtDORK7njDgdQpLeTL59s2lOQx5XeuW2IDhSr5yOyNWEK96NfHIylaf8sxi" height="400"> </img>
+<img align="right" src="https://lh3.googleusercontent.com/proxy/ZqTSEipQTTci-YCzASdJ9D-SiAkYC157l7W3VxVEJZOLJWtDORK7njDgdQpLeTL59s2lOQx5XeuW2IDhSr5yOyNWEK96NfHIylaf8sxi" height="380"> </img>
 <!-- <img align="right" src="https://www.netsetsoftware.com/images/flutter_top_img.png" height="355"> </img> -->
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app

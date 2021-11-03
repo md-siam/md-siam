@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-
+<p align="left"> 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 
 - 🌱  : I’m currently learning **[Golang](https://golang.org/doc/), [ParseServer](https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk)**
@@ -17,6 +17,10 @@
 - 📫  : How to reach me **[md.siam03@gmail.com]()**
 
 - ⚡ : Fun fact **[I love playing video games (CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
+</p>
+<p align="right"> 
+    <a href="#" target="_blank"> <img src="https://github.com/marcusolsson/gophers/blob/master/gopherdata-gopher.png"/> </a>
+</p>
 
 ## 🚀 Languages and Tools:
 

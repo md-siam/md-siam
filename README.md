@@ -6,7 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- <img align="right" src="https://i.imgur.com/gl9R097.png" height="240"> </img> -->
+<!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="240"> </img> -->
+<img align="right" src="https://image.pngaaa.com/538/5030538-middle.png" height="340"> </img>
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 

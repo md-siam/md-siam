@@ -37,7 +37,7 @@
     <a href="https://codeigniter.com/" target="_blank"> <img src="https://www.codeigniter.com/assets/images/codeigniter4logo.png" title="CodeIgniter" width="43" height="43"/> </a> 
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" width="41" height="41"/>&nbsp;</a>
     <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" title="Cpanel" width="50" height="50"/>&nbsp;</a>
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" width="43" height="43"/>&nbsp;</a>
+    <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySql" width="43" height="43"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="43" height="43"/> </a>

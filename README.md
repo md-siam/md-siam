@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://i.imgur.com/gl9R097.png" height="230"> </img>
+<img align="right" src="https://i.imgur.com/04udzAO.png" height="240"> </img>
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 

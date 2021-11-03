@@ -12,7 +12,7 @@
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 
-- 🌱  : I’m currently learning **[ParseServer](https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk)**
+- 🌱  : I’m currently learning **[Golang](https://golang.org/doc/), [ParseServer](https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk)**
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 
@@ -28,6 +28,7 @@
 <p align="left"> 
     <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/> </a>
+    <a href="https://golang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" title="Golang"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/> </a> 

@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://miro.medium.com/max/664/1*Xm96KtLeIAAMtAYWcr1-MA.png" height="240"> </img>
+<img align="right" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif" height="240"> </img>
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 

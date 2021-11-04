@@ -6,8 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="240"> </img>  -->
-<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
+<img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="270"> </img>
+<!-- <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img> -->
 <!-- <img align="right" src="https://www.netsetsoftware.com/images/flutter_top_img.png" height="355"> </img> -->
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app

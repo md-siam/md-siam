@@ -10,7 +10,6 @@
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
 
-
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 
 - 🌱  : I’m currently learning **[Golang](https://golang.org/doc/), [ParseServer](https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk)**

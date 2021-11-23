@@ -102,6 +102,9 @@
 <a href="https://github.com/md-siam/layout_basics">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=layout_basics&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
 </a>
+<a href="https://github.com/md-siam/Legion_Y730_running_BigSur">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=Legion_Y730_running_BigSur&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+</a>
 <a href="https://github.com/md-siam/bangladesh_map">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=bangladesh_map&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
 </a>

@@ -90,6 +90,16 @@
 <br/>
 <br/>
 
+
+## 📌 Pinned Repositories
+<a href="https://github.com/md-siam/taja_khobor">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=taja_khobor&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+</a>
+<a href="https://github.com/md-siam/Real-Time-Water-Quality-Monitoring-and-Contamination-event-Detection-using-Machine-Learning">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=Real-Time-Water-Quality-Monitoring-and-Contamination-event-Detection-using-Machine-Learning&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+</a>
+
+
 ## 🔗 Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/md-siam/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>

@@ -12,7 +12,7 @@
 
 - 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
 
-- 🌱  : I’m currently learning **[Back4App](https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk), [GraphQL](https://graphql.org/learn/)**
+- 🌱  : I’m currently learning **[Back4App](https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk) & [GraphQL](https://graphql.org/learn/)**
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 

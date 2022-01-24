@@ -134,3 +134,8 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=md-siam">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/md-siam?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
+## 🧮 Visitors Count
+<p align="center">
+<img align="center" src = "https://profile-counter.glitch.me/md-siam/count.svg" alt ="Loading">
+</p>

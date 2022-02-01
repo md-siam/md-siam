@@ -33,7 +33,6 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> </a> 
     <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="PHP" width="43" height="43"/>&nbsp;</a>
-    <a href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/blackfire-inverted-1.svg" title="CodeIgniter" width="42" height="42"/> </a> 
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" width="41" height="41"/>&nbsp;</a>
     <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" title="Cpanel" width="50" height="50"/>&nbsp;</a>
     <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" width="43" height="43"/>&nbsp;&nbsp;</a>

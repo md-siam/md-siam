@@ -90,6 +90,9 @@
 
 ## 📌 Pinned Repositories
 <p align="center">
+    <a href="https://github.com/md-siam/BN-Calculator">
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=BN-Calculator&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+    </a>
     <a href="https://github.com/md-siam/nilam">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=nilam&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
@@ -104,9 +107,6 @@
     </a>
     <a href="https://github.com/md-siam/package_of_the_day">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=package_of_the_day&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/widget_of_the_day">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=widget_of_the_day&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
     <a href="https://github.com/md-siam/bangladesh_map">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=bangladesh_map&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />

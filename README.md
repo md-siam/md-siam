@@ -10,7 +10,7 @@
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
 
-- 🔭  : I’m currently working on **[Taja Khobor](https://tajakhobor.news/)** app
+- 🔭  : I’m currently working for **[Flutter Puzzle Hack](https://github.com/md-siam/flutter_puzzle_hack)** contest
 
 - 🌱  : I’m currently learning **[Rive Animation](https://rive.app/) & [GraphQL](https://graphql.org/learn/)**
 

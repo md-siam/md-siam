@@ -7,8 +7,7 @@
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
     ➮ Depending on the project requirement, I use shared preferences or hive for local storage. <br>
-    ➮ Contact email : md.siam03@gmail.com
-</h4>
+    ➮ Contact email : <a href = "mailto: md.siam03@gmail.com">md.siam03@gmail.com</a>
 
 
 ## 🙋‍♂️ About Me

@@ -1,7 +1,14 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Md. Siam</h1>
-<h3 align="center">I'm a Full Stack Flutter Developer from Bangladesh.</h3>
+<h4 align="justify">
+    I'm a Flutter developer from Bangladesh, having 2+ years of cross-platform app development experience. <br>
+    ➮ For the folder & file pattern, I use MVC, MVP, or MVVM. <br>
+    ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
+    ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
+    ➮ Depending on the project requirement, I use shared preferences or hive for local storage. <br>
+    ➮ Contact email : md.siam03@gmail.com
+</h4>
 
 
 ## 🙋‍♂️ About Me

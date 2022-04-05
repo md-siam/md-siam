@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Md. Siam</h1>
 <img align="right" src="https://i.imgur.com/iDhGSi5.png" height="160"> </img>
 <h4 align="left">
-    I'm a Flutter developer from Bangladesh, having 2+ years of cross-platform app development experience. <br>
+    I'm a Flutter developer from Bangladesh, having 2+ years of cross-platform app architect and development experience. <br>
     ➮ For the folder & file pattern, I use MVC, MVP, or MVVM. <br>
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>

@@ -19,7 +19,7 @@
 
 - 🔭  : I’m currently working for **[Flutter Puzzle Hack](https://github.com/md-siam/flutter_puzzle_hack)** contest
 
-- 🌱  : I’m currently learning **[Rive Animation](https://rive.app/) & [GraphQL](https://graphql.org/learn/)**
+- 🌱  : I’m currently learning **[BLoC](https://bloclibrary.dev/#/gettingstarted) & [Rive Animation](https://rive.app/)**
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 

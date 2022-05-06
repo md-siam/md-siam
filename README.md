@@ -87,8 +87,14 @@
 <br/>
 <table>
     <tr>
-        <td><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=md-siam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
-        <td><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-siam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=md-siam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+        </td>
+        <td>
+<!--             <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-siam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            </a> -->
+        </td>
     </tr>
 </table>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
@@ -102,6 +108,9 @@
 
 ## 📌 Pinned Repositories
 <p align="center">
+    <a href="https://github.com/md-siam/tip_calculator">
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=tip_calculator&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+    </a>
     <a href="https://github.com/md-siam/flutter_puzzle_hack">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=flutter_puzzle_hack&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
@@ -111,17 +120,14 @@
     <a href="https://github.com/md-siam/taja_khobor">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=taja_khobor&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
-    <a href="https://github.com/md-siam/dhaka_stocks_price">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=dhaka_stocks_price&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
     <a href="https://github.com/md-siam/package_of_the_day">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=package_of_the_day&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
     <a href="https://github.com/md-siam/widget_of_the_day">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=widget_of_the_day&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
-    <a href="https://github.com/md-siam/bangladesh_map">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=bangladesh_map&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+    <a href="https://github.com/md-siam/dhaka_stocks_price">
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=dhaka_stocks_price&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
     <a href="https://github.com/md-siam/Real-Time-Water-Quality-Monitoring-and-Contamination-event-Detection-using-Machine-Learning">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=Real-Time-Water-Quality-Monitoring-and-Contamination-event-Detection-using-Machine-Learning&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />

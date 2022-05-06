@@ -19,7 +19,7 @@
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
 
-- 🔭  : I’m currently working for **[Flutter Puzzle Hack](https://github.com/md-siam/flutter_puzzle_hack)** contest
+- 🔭  : I’m currently working on an **E-Commerce** app
 
 - 🌱  : I’m currently learning **[BLoC](https://bloclibrary.dev/#/gettingstarted) & [Rive Animation](https://rive.app/)**
 

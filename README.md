@@ -110,6 +110,9 @@
 
 ## 📌 Pinned Repositories
 <p align="center">
+    <a href="https://github.com/md-siam/kid_starter">
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=kid_starter&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+    </a>
     <a href="https://github.com/md-siam/tip_calculator">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=tip_calculator&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
@@ -130,9 +133,6 @@
     </a>
     <a href="https://github.com/md-siam/dhaka_stocks_price">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=dhaka_stocks_price&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/Real-Time-Water-Quality-Monitoring-and-Contamination-event-Detection-using-Machine-Learning">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=Real-Time-Water-Quality-Monitoring-and-Contamination-event-Detection-using-Machine-Learning&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
 </p>
 

@@ -1,7 +1,7 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a>
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Md. Siam </h1>
+<h1 align="left">Hi 👋,  I'm Md. Siam </h1>
     
 <img align="right" src="https://i.imgur.com/iDhGSi5.png" height="160"> </img>
 <h4 align="left">

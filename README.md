@@ -25,7 +25,7 @@
 
 - 🔭  : I’m currently working on an **E-Commerce** app
 
-- 🌱  : I’m currently learning **[RxDart](https://pub.dev/packages/rxdart), [BLoC](https://bloclibrary.dev/#/gettingstarted), & [Rive Animation](https://rive.app/)**
+- 🌱  : I’m currently learning **[RxDart](https://pub.dev/packages/rxdart)**
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 

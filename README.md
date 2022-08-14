@@ -23,7 +23,7 @@
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
 
-- 🔭  : I’m currently working on an **E-Commerce** app
+- 🔭  : I’m currently searching for new **Projects**
 
 - 🌱  : I’m currently learning **[RxDart](https://pub.dev/packages/rxdart)**
 

@@ -10,7 +10,7 @@
 <img align="right" src="https://i.imgur.com/iDhGSi5.png" height="160"> </img>
 <h4 align="left">
     I'm a Flutter developer from Bangladesh, having 2+ years of cross-platform app architect and development experience. <br>
-    ➮ I prefer MVC, MVVM, or BLoC pattern, for the folder & file pattern. <br>
+    ➮ I prefer MVC, MVVM, or BLoC pattern, for the folder & file structure. <br>
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
     ➮ Depending on the project requirement, I use `shared_preferences` or `hive` for local storage. <br><br>

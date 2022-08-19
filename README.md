@@ -25,7 +25,7 @@
 
 - 🔭  : I’m currently searching for new **Projects**
 
-- 🌱  : I’m currently learning **[RxDart](https://pub.dev/packages/rxdart)**
+- 🌱  : I’m currently learning **[GraphQL](https://graphql.org/code/#flutter)**, **[RxDart](https://pub.dev/packages/rxdart)**
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 

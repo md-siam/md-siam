@@ -33,7 +33,7 @@
 
 - 📫  : How to reach me **[md.siam03@gmail.com]()**
     
-- 🔬  : My publication at **[IEEE Region 10 - HTC, 2019](https://ieeexplore.ieee.org/document/9042459)**
+- 🔬  : My publication at **[IEEE Region 10 - HTC](https://ieeexplore.ieee.org/document/9042459)**
 
 - ⚡ : Fun fact **[I love playing video games (CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
 

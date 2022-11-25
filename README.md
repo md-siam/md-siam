@@ -7,7 +7,7 @@
 
 </h1>
     
-<img align="right" src="https://i.imgur.com/iDhGSi5.png" height="160"> </img>
+<img align="right" src="https://i.imgur.com/6AgVgVw.png" height="160"> </img>
 <h4 align="left">
     I'm a Flutter developer from Bangladesh, having 2+ years of cross-platform app architect and development experience. <br>
     ➮ I prefer MVC, MVVM, or BLoC pattern, for the folder & file structure. <br>
@@ -32,6 +32,8 @@
 - 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
 
 - 📫  : How to reach me **[md.siam03@gmail.com]()**
+    
+- 🔬  : My publication at **[R10-HTC](https://ieeexplore.ieee.org/document/9042459)**
 
 - ⚡ : Fun fact **[I love playing video games (CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
 

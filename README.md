@@ -13,7 +13,7 @@
     ➮ I prefer MVC, MVVM, or BLoC pattern, for the folder & file structure. <br>
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
-    ➮ Depending on the project requirement, I use `shared_preferences` or `hive` for local storage. <br><br>
+    ➮ Depending on the project requirement, I use `shared_preferences`, `sqflite` or `hive` for local storage. <br><br>
     ☞ Hire me for your next project: <a href = "mailto: md.siam03@gmail.com">md.siam03@gmail.com</a> ☜
 <h4>
 

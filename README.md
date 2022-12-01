@@ -9,7 +9,7 @@
     
 <img align="right" src="https://i.imgur.com/6AgVgVw.png" height="160"> </img>
 <h4 align="left">
-    I'm a Flutter developer from Bangladesh, having 1 year of research experience & 3+ years of cross-platform application development experience. <br>
+    I'm a Software Engineer from Bangladesh, having 1 year of research experience & 3+ years of cross-platform application development experience. <br>
     ➮ I prefer MVC, MVVM, or BLoC pattern, for the folder & file structure. <br>
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>

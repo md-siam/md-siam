@@ -111,7 +111,13 @@
 <br/>
 <br/>
 
-<img alt="Md. Siam's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=md-siam&theme=react-dark&hide_border=true"/>
+<table>
+    <tr>
+        <td>
+            <img alt="Md. Siam's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=md-siam&theme=react-dark&hide_border=true"/>
+        </td>
+    </tr>
+</table>
 <br/>
 <br/>
 

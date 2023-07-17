@@ -163,8 +163,9 @@
 
 ## ❤️ Views and Followers
 <p align="center">
-<img data-target="animated-image.replacedImage" alt="img" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="100px" style="display: block; opacity: 1;"><br>
-<a href = "https://www.buymeacoffee.com/mdsiam" target="_blank"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="70" width="250" alt="chaudharimd" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a><br>
+<!-- <img data-target="animated-image.replacedImage" alt="img" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="100px" style="display: block; opacity: 1;"><br>
+<a href = "https://www.buymeacoffee.com/mdsiam" target="_blank"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="70" width="250" alt="chaudharimd" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a><br> -->
+<a href="https://stardev.io/developers/md-siam"><img alt="Check out md-siam's profile on stardev.io" src="https://stardev.io/developers/md-siam/badge/languages/global.svg" /></a><br><br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=md-siam">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/md-siam?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>

@@ -93,7 +93,7 @@
     <a href="https://github.com/md-siam/kid_starter" target="_blank"><img src="https://github.com/md-siam/kid_starter/blob/master/screenshots/store_icons/playstore.png" height="80"/></a>&emsp;
     <a href="https://github.com/md-siam/flutter_puzzle_hack" target="_blank"><img src="https://github.com/md-siam/flutter_puzzle_hack/blob/master/assets/images/icons/playstore.png" height="80"/></a>&emsp;
     <a href="https://github.com/md-siam/bn_calculator" target="_blank"><img src="https://github.com/md-siam/bn_calculator/blob/master/assets/images/playstore.png" height="80"/></a>&emsp;
-    <a href="https://github.com/md-siam/tip_calculator" target="_blank"><img src="https://github.com/md-siam/tip_calculator/blob/master/screenshots/stores_logos/playstore.png" height="80"/></a>&emsp;
+
 </p>
 
 

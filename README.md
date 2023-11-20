@@ -9,7 +9,7 @@
     I'm a Software Engineer from Bangladesh, having 4+ years of software development experience. 
     <br><br>
     ➮ I prefer MVC, MVVM, GetX pattern (by Kauê Murakami), BLoC pattern, for the folder & file structure. <br>
-    ➮ In addition to that, I use Provider, or BLoC package for app state management. <br>
+    ➮ In addition to that, I use Provider, GetX, or BLoC package for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
     ➮ Depending on the project requirement, I use `shared_preferences`, `sqflite` or `hive` for local data storage. <br><br>
     ☞ Connect with me: <a href = "https://www.linkedin.com/in/md-siam/">LinkedIn</a> ☜ <br>

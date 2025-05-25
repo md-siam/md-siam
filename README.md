@@ -6,7 +6,7 @@
     
 <img align="right" src="https://i.imgur.com/pYwXP9v.png" height="160"> </img>
 <h4 align="left">
-    I'm a Software Engineer from Bangladesh, having 4+ years of software development experience. 
+    I'm a Software Engineer from Bangladesh, having 5+ years of software development experience. 
     <br><br>
     ➮ I prefer MVC, MVVM, GetX pattern (by Kauê Murakami), BLoC pattern, for the folder & file structure. <br>
     ➮ In addition to that, I use Provider, GetX, or BLoC package for app state management. <br>

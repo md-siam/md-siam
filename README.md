@@ -18,7 +18,7 @@
     ➮ Cloud: Firebase, Google Cloud <br>
     ➮ Agile software development <br><br>
     ☞ Connect with me: <a href = "https://www.linkedin.com/in/md-siam/">LinkedIn</a> ☜ <br>
-    ☞ Hire me for your next project: <a href = "mailto: md.siam03@gmail.com">md.siam03@gmail.com</a> ☜ <br>
+    ☞ contact me using: <a href = "mailto: md.siam03@gmail.com">md.siam03@gmail.com</a> ☜ <br>
 </h4>
     
 ## 🙋‍♂️ About Me

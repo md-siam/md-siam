@@ -85,6 +85,7 @@
 ## 👨‍💻 Worked on Applications
 <br/>
 <p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.technonext.hajitalk&hl=en" target="_blank"><img src="https://play-lh.googleusercontent.com/bS9xTBLglaHUI0K9jXjSZtJivTXp_pVUqyQXR93CJ7ztlHGk6ylmWpLArp6OxAq4W3Iw=w240-h480-rw" height="80" title="HajiTalk"/></a>&emsp;
     <a href="https://play.google.com/store/apps/details?id=com.firsttrip.user" target="_blank"><img src="https://play-lh.googleusercontent.com/6V2F4vYSsX6yRItGLx36ERiUbyqcieI33B35A2NN7lUrenE6vRzYCIFeacy2IsVZeko=w240-h480-rw" height="80" title="Firsttrip"/></a>&emsp;
     <a href="https://play.google.com/store/apps/details?id=com.technonext.businesscard" target="_blank"><img src="https://play-lh.googleusercontent.com/dQvxCQE-z0zE-wwh082bcsJ8BcK4RsB_i90Ynq9iqtEUElHpiD0TAUo6rjfM3P-mJRTh=w240-h480-rw" height="80" title="EziCard - Business Card Maker"/></a>&emsp;
     <a href="https://play.google.com/store/apps/details?id=com.airastra&hl=en&gl=US" target="_blank"><img src="https://play-lh.googleusercontent.com/ZFHKpE-MKbPIgu5xLk79xW95bObntWszKdjEPP5OncP5bmJwwwSSg617LovtiVZ7uAI=w240-h480-rw" height="80" title="Air Astra"/></a>&emsp;

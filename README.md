@@ -19,7 +19,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="270"> </img> -->
-<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
+<img align="right" src="https://i.imgur.com/wwRCvJ6.png" height="260"> </img>
 
 
 - 🔭  : I’m currently searching for new **Projects**

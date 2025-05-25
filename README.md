@@ -6,12 +6,17 @@
     
 <img align="right" src="https://i.imgur.com/pYwXP9v.png" height="160"> </img>
 <h4 align="left">
-    I'm a Software Engineer from Bangladesh, having 5+ years of software development experience. 
+    I'm a cross-platform mobile application developer, having 5+ years of software development experience. In addition to that, I am also in the top 5 most open-sourced Flutter & Dart project contributors in Bangladesh; link: 
+    <a href = "https://stardev.io/top/developers/dart/in/bangladesh?developer=md-siam">stardev.io</a>
     <br><br>
-    ➮ I prefer MVC, MVVM, GetX pattern (by Kauê Murakami), BLoC pattern, for the folder & file structure. <br>
-    ➮ In addition to that, I use Provider, GetX, or BLoC package for app state management. <br>
-    ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
-    ➮ Depending on the project requirement, I use `shared_preferences`, `get_storage`, `sqflite` or `hive` for local data storage. <br><br>
+    ➮ Programming with: Dart, JavaScript <br>
+    ➮ State management using: Provider, Riverpod, GetX, or BLoC <br>
+    ➮ Design pattern: MVC, MVVM, GetX pattern (by Kauê Murakami), BLoC pattern <br>
+    ➮ Local database: SQFLite, Hive, Shared Preferences <br>
+    ➮ RESTful API calls using: http, or dio <br>
+    ➮ Version control: Git, & GitHub <br>
+    ➮ Cloud: Firebase, Google Cloud <br>
+    ➮ Agile software development <br><br>
     ☞ Connect with me: <a href = "https://www.linkedin.com/in/md-siam/">LinkedIn</a> ☜ <br>
     ☞ Hire me for your next project: <a href = "mailto: md.siam03@gmail.com">md.siam03@gmail.com</a> ☜ <br>
 </h4>

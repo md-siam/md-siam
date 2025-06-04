@@ -29,7 +29,7 @@
 
 - 🔭  : I’m currently searching for new **Projects**
 
-- 🌱  : I’m currently learning **[GraphQL](https://graphql.org/code/#flutter)**, **[Riverpod](https://riverpod.dev/docs/introduction/why_riverpod)**
+- 🌱  : I’m currently learning **[Compose Multiplatform](https://www.udemy.com/course/ultimate-compose-multiplatform-androidios-testing-kotlin)**, **[Java Spring Framework](https://www.udemy.com/course/spring-5-with-spring-boot-2)**
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 

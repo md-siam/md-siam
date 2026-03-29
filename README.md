@@ -90,8 +90,8 @@
 ## 👨‍💻 Worked on Applications
 <br/>
 <p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.takeoff.user" target="_blank"><img src="https://play-lh.googleusercontent.com/seydOuhZwz6kU1vBxL8_6lOq55XMyvYdvurTNYnthUMVb1oOSa3pwzmeHSzyhfRX6t4fKTdsQfOA-Z9XYpoIWg=w240-h480-rw" height="80" title="ERP US-Bangla Group"/></a>&emsp;
-    <a href="https://play.google.com/store/apps/details?id=com.triplover.user" target="_blank"><img src="https://play-lh.googleusercontent.com/s_F6Lb4UovnQLDyXw2N738QnmTZlqHXAbIL9NujJCYrl2HTG7eGMitk9tu8FP56PD53jrohiFKvpS2v6bgX5BKA=w240-h480-rw" height="80" title="ERP US-Bangla Group"/></a>&emsp;
+    <a href="https://play.google.com/store/apps/details?id=com.takeoff.user" target="_blank"><img src="https://play-lh.googleusercontent.com/seydOuhZwz6kU1vBxL8_6lOq55XMyvYdvurTNYnthUMVb1oOSa3pwzmeHSzyhfRX6t4fKTdsQfOA-Z9XYpoIWg=w240-h480-rw" height="80" title="Takeoff Travels"/></a>&emsp;
+    <a href="https://play.google.com/store/apps/details?id=com.triplover.user" target="_blank"><img src="https://play-lh.googleusercontent.com/s_F6Lb4UovnQLDyXw2N738QnmTZlqHXAbIL9NujJCYrl2HTG7eGMitk9tu8FP56PD53jrohiFKvpS2v6bgX5BKA=w240-h480-rw" height="80" title="Triplover"/></a>&emsp;
     <a href="https://play.google.com/store/apps/details?id=com.technonext.erp" target="_blank"><img src="https://play-lh.googleusercontent.com/1ERvz3s3znmmNh6p1Y6qXE8U6r-qZmMNpMpygtnvwyX3o51_QHzAAGLnfVOcOtC0TiU=w240-h480-rw" height="80" title="ERP US-Bangla Group"/></a>&emsp;
     <a href="https://play.google.com/store/apps/details?id=com.technonext.hajitalk&hl=en" target="_blank"><img src="https://play-lh.googleusercontent.com/bS9xTBLglaHUI0K9jXjSZtJivTXp_pVUqyQXR93CJ7ztlHGk6ylmWpLArp6OxAq4W3Iw=w240-h480-rw" height="80" title="HajiTalk"/></a>&emsp;
     <a href="https://play.google.com/store/apps/details?id=com.firsttrip.user" target="_blank"><img src="https://play-lh.googleusercontent.com/6V2F4vYSsX6yRItGLx36ERiUbyqcieI33B35A2NN7lUrenE6vRzYCIFeacy2IsVZeko=w240-h480-rw" height="80" title="Firsttrip"/></a>&emsp;
